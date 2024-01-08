@@ -10,11 +10,9 @@
   <buildtool_depend>catkin</buildtool_depend>
   <depend>roslaunch</depend>
   <depend>rviz</depend>
-  <depend>gazebo_ros</depend>
   <depend>xacro</depend>
   <depend>robot_state_publisher</depend>
   <depend>joint_state_publisher</depend>
-  <depend>gazebo_ros_control</depend>
   <depend>hardware_interface</depend>
   <depend>transmission_interface</depend>
   <export>
